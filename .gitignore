@@ -1,3 +1,4 @@
 account.info
 __pycache__/
 .*
+SpendThrift_bot/user_data/*
